@@ -1,0 +1,269 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/">
+    <bib:Document rdf:about="https://viennaprinciples.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_2"/>
+        <dc:title>Vienna Principles a vision for scholarly communication</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://viennaprinciples.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:34:59</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Vienna Principles a vision for scholarly communication</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://viennaprinciples.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:35:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.humanbrainproject.eu/en/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_4"/>
+        <dc:title>Human Brain Project Home</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.humanbrainproject.eu/en/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:36:30</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Human Brain Project Home</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.humanbrainproject.eu/en/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:36:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://eventhorizontelescope.org/home">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_6"/>
+        <dc:title>Event Horizon Telescope</dc:title>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://eventhorizontelescope.org/home</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:37:01</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://eventhorizontelescope.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:37:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://sciencefeedback.co/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Science Feedback</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_8"/>
+        <dc:title>Science Feedback</dc:title>
+        <dc:date>2019-02-27T21:23:30+00:00</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://sciencefeedback.co/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:37:26</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://sciencefeedback.co/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:37:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://openworm.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_10"/>
+        <dc:title>OpenWorm</dc:title>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://openworm.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:37:52</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>OpenWorm</dc:title>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://openworm.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:37:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://safecast.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Safecast</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_12"/>
+        <dc:title>Safecast</dc:title>
+        <dcterms:abstract>Safecast is an international volunteer driven non-profit organization whose goal is to create useful, accessible, and granular environmental data. All Safecast data is published, free of charge, into the public domain under a CC0 designation.</dcterms:abstract>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://safecast.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:40:23</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_12">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://safecast.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:40:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://kiron.ngo">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_18"/>
+        <dc:title>Kiron Open Higher Education for Refugees - Kiron</dc:title>
+        <dcterms:abstract>Open Higher Education for Refugees Kiron enables access to higher education and successful learning for refugees through digital solutions.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://kiron.ngo</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:47:08</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_18">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>https://kiron.ngo/en/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:47:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="sensebox.de/en/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>senseBox.de</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_20"/>
+        <dc:title>Sensebox | Home</dc:title>
+        <dcterms:abstract>Your toolkit for digital education, citizen science and environmental monitoring</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>sensebox.de/en/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:47:53</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_20">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://sensebox.de/en/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:48:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/AbhayKoushik/OpenScience">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koushik</foaf:surname>
+                        <foaf:givenName>Abhay</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>AbhayKoushik/OpenScience</dc:title>
+        <dcterms:abstract>Collaboratory project stemming out of Open Science Course at CRI Paris</dcterms:abstract>
+        <dc:date>2020-10-23T10:22:01Z</dc:date>
+        <z:libraryCatalog>GitHub</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/AbhayKoushik/OpenScience</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 18:51:20</dcterms:dateSubmitted>
+        <dc:rights>GPL-3.0 License         ,                 GPL-3.0 License</dc:rights>
+        <dc:description>original-date: 2020-10-23T10:21:56Z</dc:description>
+    </bib:Data>
+    <bib:Document rdf:about="https://docs.google.com/spreadsheets/u/5/d/1uVYQ_-R0rJNMwNXcTZE5qessLK7oYffxHy4JCXN2Mmc/edit?usp=embed_facebook">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Google Docs</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_23"/>
+        <dc:title>Session I Task 2 Team 8</dc:title>
+        <dcterms:abstract>Sheet1
+
+Team 8: Open MAJIG
+Discover Collectively Open Science Projects
+A major appeal of Open Science is the capacity to harness collective intelligence and face big scientific challenges, unmet when researchers are working in isolation. Below is a list of such projects. Work your way through the...</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://docs.google.com/spreadsheets/u/5/d/1uVYQ_-R0rJNMwNXcTZE5qessLK7oYffxHy4JCXN2Mmc/edit?usp=embed_facebook</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 19:00:41</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_23">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://docs.google.com/spreadsheets/d/1uVYQ_-R0rJNMwNXcTZE5qessLK7oYffxHy4JCXN2Mmc/edit#gid=0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-30 19:00:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
